@@ -12,7 +12,7 @@
 
 ## 🔥 Layout
 <p align="center">
-  <img alt="project LandingPage-Login" src=".github/light-dark-btn.jpeg" width="40%">
+  <img alt="project LandingPage-Login" src=".github/login-astro.png" width="40%">
 </p>
 
 ## 🌐 Technologies
