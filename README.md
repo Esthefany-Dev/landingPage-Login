@@ -17,6 +17,9 @@
 </p>
 
 ## 📱 Layout Responsive
+<p align="center">
+  <img alt="project Responsive LandingPage-Login" src=".github/login-astro-responsive.jpeg" width="50%">
+</p>
 
 ## 🌐 Technologies
 
